@@ -15,10 +15,10 @@
 
 <h1 align="center">Hi 👋, I'm Deekshant Bhardwaj</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/93893639/202850681-ed17418f-c596-4016-80dd-48158a4dd2db.png)
+">
 
-<p align="left"> <img src="![image](https://user-images.githubusercontent.com/93893639/202850334-022313f7-b017-4653-a0ec-e352984512c9.png)
-" alt=" image" /> </p>
+
 
 
 

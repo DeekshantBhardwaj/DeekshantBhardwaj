@@ -15,7 +15,8 @@
 
 <h1 align="center">Hi 👋, I'm Deekshant Bhardwaj</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/93893639/202850777-10561eb7-e964-4d59-82e1-863944a15195.png)
+![image](https://user-images.githubusercontent.com/93893639/202851368-0c478e3a-8f2d-47b7-a744-694cc2130fe3.png)
+
 
 
 

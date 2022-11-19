@@ -20,21 +20,20 @@
 <p align="left"> <img src="![image](https://user-images.githubusercontent.com/93893639/202850334-022313f7-b017-4653-a0ec-e352984512c9.png)
 " alt=" image" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoginimahima1" alt="yoginimahima1" /></a> </p>
 
-- 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHM**
 
-- 👯 I’m looking to collaborate on **OPEN CV**
+- 🌱 I’m currently learning **Java**
+
+- 👯 I’m looking to collaborate on **Java Projects**
 
 - 💬 Ask me about **C/C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mahima-bhardwaj-49425922b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahima-bhardwaj-49425922b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19367656/mahima-bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19367656/mahima-bhardwaj" height="30" width="40" /></a>
-<a href="https://www.instagram.com/___mahima__yogini___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/___mahima__yogini___/" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCJ_p1MDvFuxUa_tONSJ6mPA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/shorts/qsVBTwJnYiU" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/mahimacoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/mahimacoder" height="30" width="40" /></a>
+
+ 
+
+
 <a href="https://www.hackerrank.com/deekshantbhardw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/deekshantbhardw1" height="30" width="40" /></a>
 
 
@@ -50,7 +49,5 @@
 
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/YOGINIMAHIMA1/count.svg" />
-</p>
+
+

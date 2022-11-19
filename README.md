@@ -15,7 +15,7 @@
 
 <h1 align="center">Hi 👋, I'm Deekshant Bhardwaj</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/93893639/202851454-1e0a34a7-3776-44a6-a4a2-8bbf6f6ec8e5.png)">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 
 

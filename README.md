@@ -15,7 +15,8 @@
 
 <h1 align="center">Hi 👋, I'm Deekshant Bhardwaj</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/93893639/202850681-ed17418f-c596-4016-80dd-48158a4dd2db.png)
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/93893639/202850777-10561eb7-e964-4d59-82e1-863944a15195.png)
+
 
 
 
@@ -26,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
-- 💬 Ask me about **C/C++**
+- 💬 Ask me about **java/MySql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,12 +5,12 @@
 
 <h1>Deekshant Bhrardwaj</h1><br>
 <b>proffesionate </b>  <u> Passionate </u>  <em>Java Developer</em><br>
-<b>C/C++ Programmer/Developer</b><br>
+<b>Python Programmer/Developer</b><br>
 <i>Html 5/Css</i><br>
 <hr width="80px" height="40px" color="red" />
-<marquee>Good Knowledge of Cmd<br></marquee>
+<marquee>Good Knowledge of Bash<br></marquee>
 <b>Linux Master<b><br>
-  <h2>hackerrank certificate- My sql Basics/Intermediate</h2><br>
+  <h2> My sql Basics/Intermediate Learner</h2><br>
 
 
 <h1 align="center">Hi 👋, I'm Deekshant Bhardwaj</h1>

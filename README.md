@@ -26,11 +26,13 @@
 
 
 
-- 🌱 I’m currently learning **Java**
+<p align="center">
+<a href="https://github.com/DeekshantBhardwaj">
+    <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=000fff&pause=100&multiline=true&width=600&height=100&lines= I’m currently learning **Java**" />
 
-- 👯 I’m looking to collaborate on **Java Projects**
+<img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=0000f&pause=100&multiline=true&width=600&lines=  I’m looking to collaborate on **Java Projects**" />
 
-- 💬 Ask me about **java/MySql**
+<img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=000fff&pause=100&multiline=true&width=600&height=100&lines= Ask me about **java/MySql**" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

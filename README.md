@@ -15,8 +15,8 @@
   <h2> My sql Basics/Intermediate Learner</h2><br>
 
 
-<h1 align="center">Hi 👋, I'm Deekshant Bhardwaj</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=ff000f&pause=100&multiline=true&width=600&lines=A passionate Java developer from India"/></h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 

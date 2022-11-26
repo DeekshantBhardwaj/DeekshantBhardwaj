@@ -1,12 +1,14 @@
 ![image](https://user-images.githubusercontent.com/93893639/202850203-f7fcfc31-a646-441a-8061-bbfc31657586.png)
 
 
-
-
-<h1>Deekshant Bhrardwaj</h1><br>
-<b>proffesionate </b>  <u> Passionate </u>  <em>Java Developer</em><br>
-<b>Python Programmer/Developer</b><br>
-<i>Html 5/Css</i><br>
+<p align="center">
+<a href="https://github.com/DeekshantBhardwaj">
+    <img src="https://readme-typing-svg.demolab.com?font=Algerian&size=20&duration=2000&color=000fff&pause=100&multiline=true&width=600&height=100&lines=Deekshant+Bhardwaj;Java+ Developer+My+SQL+Linux Master" alt="Typing SVG" />
+</a>
+<br/>
+    <a href="https://github.com/DeekshantBhardwaj">
+    <img src="https://github-stats-alpha.vercel.app/api?username=DeekshantBhardwaj&cc=22272e&tc=ffff0f&ic=00fff0&bc=#00ff00">
+</a>
 <hr width="80px" height="40px" color="red" />
 <marquee>Good Knowledge of Bash<br></marquee>
 <b>Linux Master<b><br>
